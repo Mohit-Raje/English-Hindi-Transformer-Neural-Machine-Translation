@@ -33,7 +33,7 @@
 
 
 
-# 🌐 English → Hindi Transformer Neural Machine Translation (Built From Scratch)
+# 🌐 English → Hindi Neural Machine Translation using Transformer Architectur (Built From Scratch)
 
 This project implements a complete English → Hindi Neural Machine Translation (NMT) system using a Transformer model coded entirely from **scratch** in PyTorch.
 Every layer, mask, attention mechanism, and training loop was manually implemented **without** using nn.Transformer or pretrained HuggingFace models.
