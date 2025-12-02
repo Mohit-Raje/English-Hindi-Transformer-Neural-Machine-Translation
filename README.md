@@ -116,6 +116,8 @@ The final model is deployed using a clean Gradio interface on Hugging Face Space
 
 ## You can try the model directly in your browser: https://mohitraje-english-hindi-transformer-nmt.hf.space/
 
+## Hugging Face URL : https://huggingface.co/spaces/Mohitraje/English-Hindi-Transformer-NMT/tree/main
+
 
 # 🧠 How the Transformer Works (High-Level)
 
